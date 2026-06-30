@@ -1,2 +1,2 @@
 # clinica-medica
-Projeto do Técnico em desenvolvimento de Sistemas
+Projeto do Técnico em Desenvolvimento de Sistemas
